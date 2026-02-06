@@ -107,11 +107,7 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg)](https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce)
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
-      <strong>Education</strong><br/>
-      BSc (Hons) & MSc (ICT)<br/>Institute of Information Technology<br/>Jahangirnagar University
-    </td>
+
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
       <strong>Profession</strong><br/>
