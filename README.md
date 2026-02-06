@@ -1,33 +1,39 @@
-<!--
-  ✅ Praise Masunga | @PraiseTechzw — GitHub Profile README
-  Goal: clean, credible, modern, fast-loading, and uses LOCAL tech icons from:
-  /img/technologies/*.png  (as shown in your screenshot)
--->
-
 <div align="center">
 
-  <!-- Animated header -->
- <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=600&color=00EAFF&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Praise+Masunga;Software+Developer+%7C+Tech+Entrepreneur;Web+%7C+Mobile+%7C+Cloud+%7C+AI-assisted;Building+useful+products+for+Zimbabwe"
-  alt="Typing Header"
-/>
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=00EAFF&center=true&vCenter=true&width=1100&lines=Hello+World!+I'm+Praise+Masunga;Software+Developer+%7C+Tech+Entrepreneur;Web+%7C+Mobile+%7C+Cloud+%7C+AI-assisted;Building+useful+products+for+Zimbabwe"
+    alt="Typing Header"
+  />
 
   <p>
     <a href="https://committers.top/zimbabwe/PraiseTechzw">
-      <img src="https://user-badge.committers.top/zimbabwe/PraiseTechzw.svg" alt="Zimbabwe Rank" />
+      <img src="https://user-badge.committers.top/zimbabwe/PraiseTechzw.svg" alt="committers.top rank Zimbabwe" />
     </a>
     <img
-      src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw.PraiseTechzw&label=Profile%20Views&color=00eaff"
-      alt="Profile Views"
+      src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw.PraiseTechzw&label=visitors&color=00eaff"
+      alt="visitor badge"
     />
   </p>
 
-  <!-- quick links -->
   <p>
-    <a href="https://praisetech.tech"><b>Website</b></a> •
-    <a href="https://www.linkedin.com/in/praise-masunga/"><b>LinkedIn</b></a> •
-    <a href="https://x.com/praisetech_zw"><b>X</b></a> •
+    <a href="https://stardev.io/developers/PraiseTechzw">
+      <img alt="PraiseTechzw locality language ranking" src="https://stardev.io/developers/PraiseTechzw/badge/languages/locality.svg" />
+    </a>
+    <a href="https://stardev.io/developers/PraiseTechzw">
+      <img alt="PraiseTechzw country language ranking" src="https://stardev.io/developers/PraiseTechzw/badge/languages/country.svg" />
+    </a>
+    <a href="https://stardev.io/developers/PraiseTechzw">
+      <img alt="PraiseTechzw global language ranking" src="https://stardev.io/developers/PraiseTechzw/badge/languages/global.svg" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://praisetech.tech"><b>Website</b></a>
+    &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/praise-masunga/"><b>LinkedIn</b></a>
+    &nbsp;•&nbsp;
+    <a href="https://x.com/praisetech_zw"><b>X</b></a>
+    &nbsp;•&nbsp;
     <a href="https://www.instagram.com/praisetech_zw/"><b>Instagram</b></a>
   </p>
 
@@ -37,220 +43,122 @@
 
 ## 👤 About
 
-<p align="justify">
-I'm <b>Praise Masunga</b> (aka <b>PraiseTechzw</b>) — a Zimbabwe-based software developer and tech entrepreneur.
-I build mobile and web products, automation tools, and real-world systems with a product-first mindset: ship fast, learn from users, iterate hard.
-I'm currently pursuing a <b>BSc in Information Technology</b> at <b>Chinhoyi University of Technology</b>.
-</p>
+Praise Masunga (aka **PraiseTechzw**) is a Zimbabwe-based software developer and tech entrepreneur.  
+He builds mobile and web products, automation tools, and real-world systems with a product-first mindset—shipping fast, learning from users, and iterating hard.  
+Currently pursuing a **BSc in Information Technology** at **Chinhoyi University of Technology**.
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession"/><br/>
-      <b>Profession</b><br/>
-      Student (BSc IT) + Builder
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/><br/>
+      <b>Role</b><br/>
+      Student (BSc IT)<br/>Software Developer
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40" alt="Focus"/><br/>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/><br/>
       <b>Focus</b><br/>
-      Full-stack products<br/>
-      Automation<br/>
-      Fast iteration
+      Full-stack products<br/>Automation
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/shop.png" width="40" alt="Founder"/><br/>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/shop.png" width="40"/><br/>
       <b>Founder</b><br/>
-      Campus Market<br/>
-      Student marketplace platform
+      Campus Market
     </td>
   </tr>
 </table>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 🧭 What I’m building
-
-- **Campus Market** — a live student marketplace platform for Zimbabwe.
-- **Autopilot CLI** — a developer automation tool (commit/guard style workflows).
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>#</b></td>
-      <td><b>Project</b></td>
-      <td><b>Stack</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
+      <td>#</td>
+      <td>Project</td>
+      <td>Stack</td>
+      <td>Stars</td>
+      <td>Forks</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">1</td>
       <td><a href="https://github.com/PraiseTechzw/Campus-Market"><b>Campus Market</b></a></td>
-      <td align="center">React / Next.js / Node.js / PostgreSQL</td>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/PraiseTechzw/Campus-Market?style=flat-square&labelColor=343b41" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/forks/PraiseTechzw/Campus-Market?style=flat-square&labelColor=343b41" />
-      </td>
+      <td align="center">React · Next.js · Node.js · PostgreSQL</td>
+      <td align="center"><img src="https://img.shields.io/github/stars/PraiseTechzw/Campus-Market?style=flat-square"></td>
+      <td align="center"><img src="https://img.shields.io/github/forks/PraiseTechzw/Campus-Market?style=flat-square"></td>
     </tr>
-
     <tr>
       <td align="center">2</td>
       <td><a href="https://github.com/PraiseTechzw/autopilot-cli"><b>Autopilot CLI</b></a></td>
-      <td align="center">Node.js / Git / Automation</td>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/PraiseTechzw/autopilot-cli?style=flat-square&labelColor=343b41" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/forks/PraiseTechzw/autopilot-cli?style=flat-square&labelColor=343b41" />
-      </td>
+      <td align="center">Node.js · Git · Automation</td>
+      <td align="center"><img src="https://img.shields.io/github/stars/PraiseTechzw/autopilot-cli?style=flat-square"></td>
+      <td align="center"><img src="https://img.shields.io/github/forks/PraiseTechzw/autopilot-cli?style=flat-square"></td>
     </tr>
   </tbody>
 </table>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 🛠️ Tech Stack (Local icons)
-
-> Uses your local images from: `img/technologies/`
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="img/technologies/react.png" width="48" alt="React"/><br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/next.png" width="48" alt="Next.js"/><br/>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/node.png" width="48" alt="Node.js"/><br/>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/express.png" width="48" alt="Express"/><br/>Express
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/nest.png" width="48" alt="NestJS"/><br/>NestJS
-    </td>
+    <td align="center"><img src="img/technologies/react.png" width="48"/><br/>React</td>
+    <td align="center"><img src="img/technologies/next.png" width="48"/><br/>Next.js</td>
+    <td align="center"><img src="img/technologies/node.png" width="48"/><br/>Node.js</td>
+    <td align="center"><img src="img/technologies/express.png" width="48"/><br/>Express</td>
+    <td align="center"><img src="img/technologies/nest.png" width="48"/><br/>NestJS</td>
   </tr>
-
   <tr>
-    <td align="center" width="96">
-      <img src="img/technologies/postgresql.png" width="48" alt="PostgreSQL"/><br/>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/mongodb.png" width="48" alt="MongoDB"/><br/>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/mongoose.png" width="48" alt="Mongoose"/><br/>Mongoose
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/prisma.png" width="48" alt="Prisma"/><br/>Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/graphql.png" width="48" alt="GraphQL"/><br/>GraphQL
-    </td>
+    <td align="center"><img src="img/technologies/postgresql.png" width="48"/><br/>PostgreSQL</td>
+    <td align="center"><img src="img/technologies/mongodb.png" width="48"/><br/>MongoDB</td>
+    <td align="center"><img src="img/technologies/prisma.png" width="48"/><br/>Prisma</td>
+    <td align="center"><img src="img/technologies/graphql.png" width="48"/><br/>GraphQL</td>
+    <td align="center"><img src="img/technologies/docker.png" width="48"/><br/>Docker</td>
   </tr>
-
   <tr>
-    <td align="center" width="96">
-      <img src="img/technologies/redux.png" width="48" alt="Redux"/><br/>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/material-ui.png" width="48" alt="MUI"/><br/>MUI
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/css-modules.png" width="48" alt="CSS Modules"/><br/>CSS Modules
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/jest.png" width="48" alt="Jest"/><br/>Jest
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/mocha.png" width="48" alt="Mocha"/><br/>Mocha
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="img/technologies/git.png" width="48" alt="Git"/><br/>Git
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/github.png" width="48" alt="GitHub"/><br/>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/docker.png" width="48" alt="Docker"/><br/>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="img/technologies/aws.png" width="48" alt="AWS"/><br/>AWS
-    </td>
-    <td align="center" width="96">
-      <!-- spacer to keep grid clean -->
-      <img src="https://dummyimage.com/48x48/000000/000000.png&text=+" width="48" alt=""/><br/>
-    </td>
+    <td align="center"><img src="img/technologies/git.png" width="48"/><br/>Git</td>
+    <td align="center"><img src="img/technologies/github.png" width="48"/><br/>GitHub</td>
+    <td align="center"><img src="img/technologies/aws.png" width="48"/><br/>AWS</td>
+    <td align="center"><img src="img/technologies/jest.png" width="48"/><br/>Jest</td>
+    <td align="center"><img src="img/technologies/mocha.png" width="48"/><br/>Mocha</td>
   </tr>
 </table>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraiseTechzw&theme=gotham&no-frame=true&no-bg=true&margin-w=6" />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PraiseTechzw&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-</div>
+<p align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PraiseTechzw&theme=radical&border_radius=10"/>
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=PraiseTechzw&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage" />
-  <img height="165" src="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=PraiseTechzw&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 📈 Contribution Graph
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraiseTechzw&theme=gotham" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph"
-    width="95%"
-    alt="activity graph"
-  />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## 🤝 Contact
-
-<p align="center">
-  <a href="https://praisetech.tech" target="_blank">
-    <img alt="Website" width="28px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+  <a href="https://praisetech.tech">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="#00eaff"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2z"/></svg>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/praise-masunga/" target="_blank">
-    <img alt="LinkedIn" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/praise-masunga/">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="#00eaff"><path d="M4 3a2 2 0 1 0 2 2 2 2 0 0 0-2-2z"/></svg>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/praisetech_zw" target="_blank">
-    <img alt="X" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  <a href="https://x.com/praisetech_zw">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="#00eaff"><path d="M18 2h3l-7 8 8 12h-6l-4-6-5 6H3l8-9L3 2h6l4 6z"/></svg>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/praisetech_zw/" target="_blank">
-    <img alt="Instagram" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  <a href="https://www.instagram.com/praisetech_zw/">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="#00eaff"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5z"/></svg>
   </a>
 </p>
 
