@@ -1,256 +1,228 @@
 <!--
-  🌌 FUTURISTIC 2026 PROFILE README
+  ⚡ 2026 GitHub Profile README (Enhanced / Shakiliitju-inspired)
   👤 Praise Masunga | @PraiseTechzw
 -->
 
 <div align="center">
 
-<!-- 👋 Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00eaff&center=true&vCenter=true&lines=Hello+World!+I'm+Praise+Masunga;Software+Developer+%7C+Tech+Entrepreneur;Mobile+%7C+Web+%7C+Cloud+%7C+AI;Building+products+for+Zimbabwe+and+beyond" alt="Typing Header" />
+  <!-- Animated typing header -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Praise+Masunga+(PraiseTechzw)%F0%9F%91%8B;Software+Developer+%7C+Tech+Entrepreneur;Mobile+%7C+Web+%7C+Cloud+%7C+AI;Building+real+products+for+Zimbabwe+and+beyond"
+    alt="Typing Header"
+  />
 
-<!-- 🌍 Zimbabwe Rank & Visitors -->
-<p>
-  <a href="https://committers.top/zimbabwe/PraiseTechzw">
-    <img src="https://user-badge.committers.top/zimbabwe/PraiseTechzw.svg" alt="Zimbabwe Rank" />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw&label=Profile+Views&color=00eaff" alt="Visitor Count" />
-</p>
+  <!-- Quick badges row -->
+  <p>
+    <a href="https://committers.top/zimbabwe/PraiseTechzw">
+      <img src="https://user-badge.committers.top/zimbabwe/PraiseTechzw.svg" alt="Zimbabwe Rank" />
+    </a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw.PraiseTechzw&label=Profile%20Views&color=00E5FF" alt="Profile Views" />
+    <a href="https://github.com/PraiseTechzw?tab=followers">
+      <img src="https://img.shields.io/github/followers/PraiseTechzw?style=flat&label=Followers&color=00E5FF" alt="Followers" />
+    </a>
+    <a href="https://github.com/PraiseTechzw?tab=repositories">
+      <img src="https://img.shields.io/badge/Repos-Explore-00E5FF?style=flat" alt="Repos" />
+    </a>
+  </p>
 
-<p><em>👋 I build scalable Mobile, Web, Cloud & AI systems — solving real-world problems with product-first engineering.</em></p>
+  <!-- Hero tagline -->
+  <p>
+    <b>Builder mindset:</b> ship fast, measure impact, iterate hard. <br/>
+    I develop <b>mobile/web products</b>, build <b>automation tools</b>, and experiment with <b>AI-assisted systems</b>.
+  </p>
 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
 </div>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 **BSc Information Technology** — Chinhoyi University of Technology  
-- 💼 **Founder & CEO** — Campus Market (student marketplace platform in Zimbabwe)  
-- 🛠️ **Builder** — Automation tools, real-time apps, and AI-assisted systems  
-- 📍 Based in Zimbabwe  
-- 💡 Focus: practical products, fast iteration, measurable impact
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java)
-
-### **Frontend & UI**
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### **Cloud & DevOps**
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/PraiseTechzw">
-    <img src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&theme=synthwave&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraiseTechzw&theme=synthwave&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&theme=merko&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraiseTechzw&theme=synthwave&margin-w=4&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PraiseTechzw&limit=5&theme=synthwave&combine_all_yearly_contributions=true" alt="Top Repos Contributions" />
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<!-- Replace the user UUID below if yours is different -->
-[![wakatime](https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg)](https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce)
-
----
-
-## 👤 Quick Profile
+## 👤 About Me
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
-      <strong>Role</strong><br/>
-      Student (BSc IT) & Tech Entrepreneur<br/>
-      Chinhoyi University of Technology<br/>
+    <td align="center" width="280">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="42" alt="icon"/><br/>
+      <b>Name</b><br/>
+      Praise Masunga (PraiseTechzw)
+    </td>
+    <td align="center" width="280">
+      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="42" alt="icon"/><br/>
+      <b>Education</b><br/>
+      BSc Information Technology<br/>
+      Chinhoyi University of Technology
+    </td>
+    <td align="center" width="280">
+      <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="42" alt="icon"/><br/>
+      <b>Location</b><br/>
       Zimbabwe
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="42" alt="icon"/><br/>
+      <b>Focus</b><br/>
+      Product-led engineering<br/>
+      Real-world impact
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/shop.png" width="42" alt="icon"/><br/>
+      <b>Founder</b><br/>
+      Campus Market<br/>
+      Student marketplace
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/settings.png" width="42" alt="icon"/><br/>
+      <b>Strength</b><br/>
+      Full-stack + automation<br/>
+      Systems thinking
     </td>
   </tr>
 </table>
 
----
-
-## ✍️ Bio
-
-<p align="justify">
-Praise Masunga (PraiseTechzw) is a Zimbabwe-based software developer and tech entrepreneur focused on building practical products across mobile, web, cloud, and AI. He is currently pursuing a BSc in Information Technology at Chinhoyi University of Technology and is the Founder & CEO of Campus Market — a student marketplace platform built for the local ecosystem. His work emphasizes product-led engineering, fast iteration, and real-world impact.
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-
----
-
-## 👀 Visitors Count
-
 <div align="center">
-  <h2 align="centre">Visitors Count</h2>  
-  <p align="center">
-    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw.PraiseTechzw" />
-  </p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-
 ---
 
-## 🏅 My GitHub Profile Trophy
+## 🧰 Tech I Use
 
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=PraiseTechzw&theme=gotham&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-
----
-
-## 📊 My Github Stats
-
-<p align="center">
-  <h2 align="center">My Github Stats</h2>
-</p>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PraiseTechzw&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+
+### 👨‍💻 Languages
+<img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+### 🧩 Frameworks & UI
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+
+### 🗄️ Backend & Data
+<img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+
 </div>
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=PraiseTechzw&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
-  <img height="50%" width="auto" src="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
-</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
 
 ---
 
-## 📌 Projects
+## 📊 GitHub Analytics
 
-> Replace these with your real repos (or keep the table and update links later).
+<div align="center">
 
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>📜 Index</b></td>
-      <td><b>🎁 Project</b></td>
-      <td><b>🪛 Tech Used</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td><a href="https://github.com/PraiseTechzw" target="_blank"><b>Campus Market</b></a></td>
-      <td align="center">React / Next.js / Node.js / PostgreSQL</td>
-      <td><img src="https://img.shields.io/github/stars/PraiseTechzw?style=flat-square&labelColor=343b41"></td>
-      <td><img src="https://img.shields.io/github/forks/PraiseTechzw?style=flat-square&labelColor=343b41"></td>
-    </tr>
-  </tbody>
-</table>
+<img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PraiseTechzw&count_private=true&theme=radical&border_radius=10" alt="streak"/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats"/>
+
+<img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="langs"/>
+
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
 
 ---
 
-## 🧭 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraiseTechzw&theme=gotham" align="center" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
 
 ---
 
-## 📬 Contact Me
+## 🏆 Trophies
 
-<section>
-  <p align="center">
-    <h2 align="center">Contact Me</h2>
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=PraiseTechzw&theme=gotham&no-frame=true&no-bg=true&margin-w=6" alt="trophies" />
+</p>
 
-    <a href="https://praisetech.tech" target="_blank">
-      <img align="left" alt="Praise Masunga | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
-    </a>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
 
-    <!-- Replace these links with your real profiles if different -->
-    <a href="https://www.linkedin.com/in/praise-masunga" target="_blank">
-      <img align="left" alt="Praise Masunga | LinkedIn" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-    </a>
+---
 
-    <a href="https://github.com/PraiseTechzw" target="_blank">
-      <img align="left" alt="Praise Masunga | GitHub" width="26px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-    </a>
+## ⏱️ WakaTime
 
-    <a href="https://x.com/praisetech_zw" target="_blank">
-      <img align="left" alt="Praise Masunga | X" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-    </a>
+<!-- Keep this ONLY if that UUID is yours -->
+<p align="center">
+  <a href="https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce">
+    <img src="https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg" alt="wakatime" />
+  </a>
+</p>
 
-    <a href="https://www.instagram.com/praisetech_zw/" target="_blank">
-      <img align="left" alt="Praise Masunga | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-    </a>
-  </p>
-  <br>
-</section>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
+
+---
+
+## 📌 Featured Projects (clean + modern)
+
+> Add your real repo links here. Keep it to 3–6 strong projects max.
+
+<div align="center">
+
+<a href="https://github.com/PraiseTechzw">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=Campus-Market&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://autopilot-cli.praisetech.tech/">
+  <img src="https://img.shields.io/badge/Autopilot%20CLI-Live%20Site-00E5FF?style=for-the-badge" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%" alt="divider"/>
+</div>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://praisetech.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Website-praisetech.tech-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/PraiseTechzw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PraiseTechzw-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/praisetech_zw" target="_blank">
+    <img src="https://img.shields.io/badge/X-@praisetech_zw-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/praisetech_zw/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@praisetech_zw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <!-- Replace with your exact LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/praise-masunga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Praise%20Masunga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <footer>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
 </footer>
