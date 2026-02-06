@@ -7,10 +7,11 @@
 <div align="center">
 
   <!-- Animated header -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=500&color=00EAFF&center=true&vCenter=true&lines=Hello+World!+I'm+Praise+Masunga;Software+Developer+%7C+Tech+Entrepreneur;Web+%7C+Mobile+%7C+Cloud+%7C+AI-assisted;Building+useful+products+for+Zimbabwe+%F0%9F%87%BF%F0%9F%87%BC"
-    alt="Typing Header"
-  />
+ <img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=600&color=00EAFF&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Praise+Masunga;Software+Developer+%7C+Tech+Entrepreneur;Web+%7C+Mobile+%7C+Cloud+%7C+AI-assisted;Building+useful+products+for+Zimbabwe"
+  alt="Typing Header"
+/>
+
 
   <p>
     <a href="https://committers.top/zimbabwe/PraiseTechzw">
