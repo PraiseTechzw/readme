@@ -98,7 +98,6 @@ I'm currently pursuing a <b>BSc in Information Technology</b> at <b>Chinhoyi Uni
         <img src="https://img.shields.io/github/forks/PraiseTechzw/Campus-Market?style=flat-square&labelColor=343b41" />
       </td>
     </tr>
-
     <tr>
       <td align="center">2</td>
       <td><a href="https://github.com/PraiseTechzw/autopilot-cli"><b>Autopilot CLI</b></a></td>
