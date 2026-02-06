@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "project": {
+    "totalFocusTime": 964728,
+    "totalActiveTime": 3130
+  },
+  "files": {
+    "README.md": {
+      "pending": 3130,
+      "focus": 157854
+    },
+    "github.html": {
+      "pending": 0,
+      "focus": 701
+    }
+  }
+}
