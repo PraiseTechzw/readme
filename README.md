@@ -107,14 +107,6 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg)](https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce)
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
-      <strong>Location</strong><br/>
-      Qassim University<br/>Buraydah 52571, Saudi Arabia
-    </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
