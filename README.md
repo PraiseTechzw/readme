@@ -51,6 +51,32 @@
     </td>
   </tr>
 </table>
+<!-- 🌍 Stardev Language Ranking (Global / Country / Local) -->
+<p align="center">
+  <a href="https://stardev.io/developers/PraiseTechzw">
+    <img
+      alt="PraiseTechzw – Global language ranking on stardev.io"
+      src="https://stardev.io/developers/PraiseTechzw/badge/languages/global.svg"
+    />
+  </a>
+
+  <a href="https://stardev.io/developers/PraiseTechzw">
+    <img
+      alt="PraiseTechzw – Country language ranking on stardev.io"
+      src="https://stardev.io/developers/PraiseTechzw/badge/languages/country.svg"
+    />
+  </a>
+
+  <a href="https://stardev.io/developers/PraiseTechzw">
+    <img
+      alt="PraiseTechzw – Local language ranking on stardev.io"
+      src="https://stardev.io/developers/PraiseTechzw/badge/languages/locality.svg"
+    />
+  </a>
+</p>
+
+<!-- Divider (same style used everywhere else) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 <section>
   <p align="justify">
